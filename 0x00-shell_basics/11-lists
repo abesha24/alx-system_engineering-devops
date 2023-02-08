@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r $(from_directory) $(to_directory) | ls -R $(to_directory)/$(from_directory)
+ls -la . .. /boot
