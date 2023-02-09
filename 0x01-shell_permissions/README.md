@@ -13,3 +13,5 @@
 12. More directories
 13. Change group
 15. Symbolic links
+16. If only
+14. Owner and group
