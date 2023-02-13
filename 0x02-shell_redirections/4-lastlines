@@ -1,0 +1,3 @@
+#!/bin/bash
+tail /etc/passwd
+4. Last lines of a file
